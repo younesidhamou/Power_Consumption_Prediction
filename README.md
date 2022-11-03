@@ -27,3 +27,4 @@ power consumption of zone 3 of Tetouan city.
 
 We will try to investigate the dataset and try to answer these questions:
         - .......
+One of the questions treated on this project is how to know the energy produced and consumed in order to balance production and consumption, to decrease the cost of production, and to control future planning?
