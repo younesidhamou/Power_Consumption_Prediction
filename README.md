@@ -1,15 +1,12 @@
 # Tetuan City power consumption
 Predicting electricity power consumption in Tetuan city
 
-Tétouan  is a city in northern Morocco. It lies along the Martil Valley and is one of the two major ports of Morocco on the Mediterranean Sea. In the 2014 Moroccan census, the city recorded a population of 380,787 inhabitants.It is part of the administrative division Tanger-Tetouan-Al Hoceima.
+Tetouan is a city located in the north of Morocco which occupies an area of around 10375 km² and its population is about 550.374 inhabitants, according to the last Census of 2014, and is increasing rapidly, approximately 1.96% annually. Since it is located along the Mediterranean Sea, its weather is mild and rainy in the winter, hot and dry during the summer months.
 
 Source of the Dataset:
 
-Abdulwahed Salam, Abdelaaziz El Hibaoui
-Faculty of Sciences
-Tetouan, Morocco
-Abdelmalek Essaadi University
-Sallam.ye '@' yahoo.com, hibaoui '@' uae.ma
+The power consumption data was collected from Supervisory Control and Data Acquisition System (SCADA) of Amendis which is a public service operator and in charge of the distribution of drinking water and electricity since 2002. The purpose of the electricity distribution network is to serve low and medium voltage consumers in Tetouan regions. For this purpose, the delivery and distribution of electrical energy from the point of delivery to the end user, the customer, is ensured by Amendis. The energy which is distributed comes from the National Office of Electricity and Drinking Water. After transforming the high voltage (63 kV) to medium voltage (20 kV), it is allowed to transport and distribute the energy. The distribution network is powered by 3 source stations, namely: Quads, Smir and Boussafou.
+
 More details are availiable on : https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city
 
 Attribute Information:
