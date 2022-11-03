@@ -10,7 +10,7 @@ Faculty of Sciences
 Tetouan, Morocco
 Abdelmalek Essaadi University
 Sallam.ye '@' yahoo.com, hibaoui '@' uae.ma
-https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city#
+More details are availiable on : https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city#
 
 We will try to investigate the dataset and try to answer these questions:
         - .......
